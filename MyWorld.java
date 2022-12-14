@@ -8,6 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class MyWorld extends World
 {
+    //wsup timothy
     public int score = 0;
     Label scoreLabel;
     int level = 1;
